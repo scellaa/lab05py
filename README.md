@@ -1,7 +1,7 @@
 # PERTEMUAN 10 <br>
 ### TUGAS PRATIKUM 5 <br>
-Nama: Mayscela Herliyawati
-Kelas: TI.25 C.5
+Nama: Mayscela Herliyawati <br>
+Kelas: TI.25 C.5 <br>
 Nim: 312510371
 -----------------------------------------------------
 
