@@ -47,3 +47,6 @@ OUTPUT:
 5. UBAH DATA MAHASISWA DAN PENGAKHIRAN PROGRAM
 
 <img width="913" height="685" alt="Screenshot 2025-11-22 233500" src="https://github.com/user-attachments/assets/8d36b971-cb80-4366-abf3-2a085031767a" />
+<br> 
+FLOWCHART KODE 
+<img width="470" height="776" alt="Screenshot 2025-11-23 111327" src="https://github.com/user-attachments/assets/c19f6987-34fe-4680-a226-324edad5e35e" />
